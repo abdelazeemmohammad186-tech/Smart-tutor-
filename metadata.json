@@ -1,0 +1,7 @@
+{
+  "name": "المدرس الذكي - Smart Science Tutor",
+  "description": "An AI-powered interactive science tutor for primary school students featuring explanations, quizzes, and homework help.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
